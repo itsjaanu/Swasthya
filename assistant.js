@@ -1,0 +1,1 @@
+const Assistant={open(){let q=prompt('Swasthya demo assistant\\nAsk how to find a doctor, register for a camp, or use the platform:');if(q)toast('Demo assistant: I can help you navigate the platform. For medical advice, consult a qualified healthcare professional.')}};
