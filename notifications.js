@@ -1,1 +1,0 @@
-const Notifications={items:[{title:'Welcome to Swasthya Connect AI',detail:'Your demo workspace is ready.',time:'Just now'},{title:'Medical camp update',detail:'A community health camp is scheduled in Pithapuram.',time:'Today'}],show(){toast('You have '+this.items.length+' demo notifications.')}};
