@@ -1,0 +1,1 @@
+const Maps={render(){return `<div class="map-placeholder"><span class="map-label">📍 India healthcare coverage · Demo map</span></div><p class="muted">Map pins and live directions require a configured mapping provider. Locations shown in this demo are illustrative.</p>`}};
