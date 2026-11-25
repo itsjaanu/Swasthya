@@ -1,0 +1,9 @@
+{
+  "name": "Swasthya Connect AI",
+  "short_name": "Swasthya",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8f7",
+  "theme_color": "#073f3b",
+  "icons": []
+}
